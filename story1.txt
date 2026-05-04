@@ -1,1 +1,2 @@
 Add Allergy in Patient Chart
+This story is about leraning VSCODE and GitHub 2026
